@@ -1,3 +1,19 @@
+
+#NBA Stats App - By Joshua Watson
+This is a simple React application that fetches and displays NBA player statistics using the [NBA API](https://www.balldontlie.io/#get-all-players).
+## Features
+- Fetches player statistics from the NBA API
+- Displays requested player statistics
+- Shows player details including name, position,height, weight, and team
+- Shows player headshot
+- Responsive design for mobile and desktop
+- Built with React and styled-components
+## Technologies Used
+- React
+- BallDontLie API
+- Tailwind CSS(?)
+
+##############################################################################
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
