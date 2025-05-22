@@ -11,9 +11,7 @@ This is a simple React application that fetches and displays NBA player statisti
 ## Technologies Used
 - React
 - BallDontLie API
-- Tailwind CSS(?)
-
-##############################################################################
+- Tailwind CSS
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
